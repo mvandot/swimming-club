@@ -1,8 +1,19 @@
-# React + Vite
+## Tivoli Swimming Club
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a one-page website made for a simple practice, built with React + Vite, JavaScript, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Project Screen Shot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Alt text](./assets/screenshots/desktop.png?raw=true)
+
+## Installation and Setup Instructions
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Start Server:
+
+`npm run dev`  
