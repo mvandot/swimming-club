@@ -4,7 +4,7 @@ This is a one-page website made for a simple practice, built with React + Vite, 
 
 ## Project Screen Shot
 
-![Alt text](./assets/screenshots/desktop.png?raw=true)
+![Alt text](./assets/screenshots/mobile.png?raw=true)
 
 ## Installation and Setup Instructions
 
